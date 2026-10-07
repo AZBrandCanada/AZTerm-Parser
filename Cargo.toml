@@ -1,9 +1,15 @@
 [package]
 name = "azterm-parser"
 version = "0.1.0"
-authors = ["Christian Duerr <contact@christianduerr.com>", "Joe Wilm <joe@jwilm.com>", "AZBrand"]
+authors = [
+    "Ryan Olsen <info@azbrand.ca>",
+    "Christian Duerr <contact@christianduerr.com>",
+    "Joe Wilm <joe@jwilm.com>"
+]
 license = "Apache-2.0"
-description = "Terminal parser and emulation library based on Alacritty."
+description = "Terminal parser and emulation library extracted from Alacritty."
+readme = "README.md"
+repository = "https://github.com/AZBrand/AZTerm-Parser"
 edition = "2024"
 rust-version = "1.85.0"
 
